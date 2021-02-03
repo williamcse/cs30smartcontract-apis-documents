@@ -32,6 +32,8 @@ curl --location --request POST "http://api-smartcontract.cse30.io/wallets" \
  - [Transfer tokens](#transfer)
  - [Get transaction by txid](#get_transaction_by_txid)
  - [Get transactions by address](#get_transactions_by_address)
+ - [Get block_by_hash](#get_transactions_by_hash) - Comming soon
+  
  ---
 # create_wallet
 
