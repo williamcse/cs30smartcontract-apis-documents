@@ -4,7 +4,7 @@
 ### Endpoints
 --- 
 
-`POST` | `https://api-smartcontract.cse30.io`
+`POST` | `https://api-smartcontract.cse30.io/api/v1`
 
 By default, you need access API Key and API Secret to use apis from api-smartcontract.cse30.io.
 Please try to sign in/ signup  on https//smartcontrart.cse30.io to get an apiKey and apiSecret
