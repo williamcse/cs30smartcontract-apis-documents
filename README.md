@@ -72,6 +72,40 @@ Result
 ```
 ---
 
+# get_Balance
+
+``` POST /wallets/balance ```
+
+**Parameters**
+
+``` Object ```
+ - tokenAddress - ``` String ```
+ - address -  ``` String ```
+ 
+**Returns**
+
+``` Object ``` - A block object
+ - freeze - ``` String ```
+ - free - ``` String ```
+
+**Example**
+
+Request
+```
+  {
+    "tokenAddress": "d2e7d058d6429a7113e26b3c3c7acd6d3d32eccf",
+  }
+```
+  
+Result
+```
+{
+    "freeze": 0,
+    "free": 1000,
+}
+```
+---
+
 # transfer
 ``` POST /wallets/send ```
 
