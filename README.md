@@ -72,7 +72,7 @@ Result
 ```
 ---
 
-# get_Balance
+# get_balance
 
 ``` POST /wallets/balance ```
 
