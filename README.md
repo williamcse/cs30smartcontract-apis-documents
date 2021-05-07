@@ -74,7 +74,7 @@ Result
 
 # get_balance
 
-``` POST /wallets/balance ```
+``` GET /wallets/balance ```
 
 **Parameters**
 
